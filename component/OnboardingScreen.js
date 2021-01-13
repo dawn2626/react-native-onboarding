@@ -196,6 +196,11 @@ const styles = StyleSheet.create({
   },
   headerText: {
     color: '#000',
+    marginLeft: 20,
+    marginRight: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+    textAlign: 'center',
     fontWeight: '600',
     lineHeight: 40,
     fontSize: 22
